@@ -11,6 +11,8 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 
 ## Receitas
 - [Brownie](sobremesas/brownie.md)
+- [Salada Caesar](saladas/salada-caesar.md)
+- [Canja de Galinha](sopas/canja-de-galinha.md)
 - [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
 - [Picanha na Frigideira](carnes/picanha-na-frigideira.md)
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)

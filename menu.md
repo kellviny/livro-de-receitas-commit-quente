@@ -11,3 +11,4 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 
 ## Receitas
 - [Canja de Galinha](sopas/canja-de-galinha.md)
+- [Brigadeiro](sobremesas/brigadeiro.md)

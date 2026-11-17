@@ -12,3 +12,11 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 ## Receitas
 
 - [Sopa de Legumes com Carne](sopas/sopa-de-legumes-com-carne.md)
+- [Brownie](sobremesas/brownie.md)
+- [Salada Caesar](saladas/salada-caesar.md)
+- [Canja de Galinha](sopas/canja-de-galinha.md)
+- [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
+- [Picanha na Frigideira](carnes/picanha-na-frigideira.md)
+- [Pudim de Leite](sobremesas/pudim-de-leite.md)
+- [Torta de Cookies](sobremesas/torta-de-cookies.md)
+- [Brigadeiro](sobremesas/brigadeiro.md)

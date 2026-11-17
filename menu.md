@@ -10,6 +10,8 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+
+- [Sopa de Legumes com Carne](sopas/sopa-de-legumes-com-carne.md)
 - [Brownie](sobremesas/brownie.md)
 - [Salada Caesar](saladas/salada-caesar.md)
 - [Canja de Galinha](sopas/canja-de-galinha.md)

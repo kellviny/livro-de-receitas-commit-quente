@@ -10,3 +10,5 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+
+- [Sopa de Legumes com Carne](sopas/sopa-de-legumes-com-carne.md)

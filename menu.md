@@ -10,3 +10,4 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Canja de Galinha](sopas/canja-de-galinha.md)

@@ -10,6 +10,7 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Salada Caesar](saladas/salada-caesar.md)
 - [Canja de Galinha](sopas/canja-de-galinha.md)
 - [Macarrão ao Molho Branco](massas/macarrao-ao-molho-branco.md)
 - [Picanha na Frigideira](carnes/picanha-na-frigideira.md)

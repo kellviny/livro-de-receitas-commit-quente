@@ -10,3 +10,4 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Macarrão à Carbonara](massas/carbonara.md)

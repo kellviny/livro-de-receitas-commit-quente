@@ -10,5 +10,6 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Torta de Cookies](sobremesas/torta-de-cookies.md)
 - [Brigadeiro](sobremesas/brigadeiro.md)

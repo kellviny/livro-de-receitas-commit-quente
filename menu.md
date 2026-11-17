@@ -10,3 +10,4 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Brigadeiro](sobremesas/brigadeiro.md)

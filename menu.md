@@ -10,4 +10,5 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
+- [Torta de Cookies](sobremesas/torta-de-cookies.md)
 - [Brigadeiro](sobremesas/brigadeiro.md)

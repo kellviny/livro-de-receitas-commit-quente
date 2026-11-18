@@ -10,7 +10,7 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
-
+- [Bolo no Pote](sobremesas/bolo-no-pote.md)
 - [Sopa de Frango](sopas/sopa-de-frango.md)
 - [Talharim](massas/talharim.md)
 - [Sopa de Legumes com Carne](sopas/sopa-de-legumes-com-carne.md)

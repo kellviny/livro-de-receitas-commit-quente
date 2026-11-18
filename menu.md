@@ -24,5 +24,6 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Torta de Cookies](sobremesas/torta-de-cookies.md)
 - [Brigadeiro](sobremesas/brigadeiro.md)
+- [Caldo Verde](sopas/caldo-verde.md)
 - [Salada Proteica](saladas/salada-proteica.md)
 - [Carne Moída](carnes/carne-moida.md)

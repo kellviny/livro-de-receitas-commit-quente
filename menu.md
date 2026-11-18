@@ -20,4 +20,5 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Picanha na Frigideira](carnes/picanha-na-frigideira.md)
 - [Pudim de Leite](sobremesas/pudim-de-leite.md)
 - [Torta de Cookies](sobremesas/torta-de-cookies.md)
+- [Carne](carnes/carne-moida-com-batata.md)
 - [Brigadeiro](sobremesas/brigadeiro.md)

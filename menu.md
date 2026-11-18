@@ -10,7 +10,7 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Sobremesas](sobremesas/)
 
 ## Receitas
-
+- [Bolo no Pote](sobremesas/bolo-no-pote.md)
 - [Sopa de Legumes com Carne](sopas/sopa-de-legumes-com-carne.md)
 - [Brownie](sobremesas/brownie.md)
 - [Salada Caesar](saladas/salada-caesar.md)

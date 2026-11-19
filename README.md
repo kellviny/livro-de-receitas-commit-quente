@@ -59,5 +59,5 @@ Para o guia completo de padrões e regras, consulte o arquivo [CONTRIBUTING.md](
 - **Product Owner:** Kellviny — [@kellviny](https://github.com/kellviny)
 - **Colaborador:** Fredson Medeiros — [@fredszn](https://github.com/fredszn)
 - **Colaboradora:** Isabele Rodrigues de Souza — [@isarodrr](https://github.com/isarodrr)
-- **Colaborador:** Thalyson — [@thalysonwhendell2-maker](https://github.com/thalysonwhendell2-maker)
+- **Colaborador:** Thalyson — [@ThalysonWh](https://github.com/ThalysonWh)
 - **Colaborador:** Luiz Neto — [@luizneto010101](https://github.com/luizneto010101)

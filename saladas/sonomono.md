@@ -1,4 +1,4 @@
-# Sunomono
+# Sonomono
 
 ## Ingredientes
 - 2 pepinos japoneses médios lavados

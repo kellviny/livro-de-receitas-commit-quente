@@ -32,7 +32,6 @@ A branch `main` é protegida e representa a versão oficial do livro. Commits di
    - Se houver conflito no `menu.md` por outro merge anterior, atualize sua branch com a `main`, resolva o conflito e envie o commit de ajuste:
      ```bash
      git pull origin main
-     # resolva o conflito no menu.md
      git add menu.md
      git commit -m "fix: resolver conflito no menu.md"
      git push

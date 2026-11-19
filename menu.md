@@ -11,7 +11,7 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 
 ## Receitas
 - [Sonomono](saladas/sonomono.md)
-- [Carne de Panela](carnes/carne-de-panela.md)
+- [Carne de Panela](carnes/carne-na-panela.md)
 - [Bolo no Pote](sobremesas/bolo-no-pote.md)
 - [Sopa de Frango](sopas/sopa-de-frango.md)
 - [Talharim](massas/talharim.md)

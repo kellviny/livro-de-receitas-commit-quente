@@ -26,6 +26,7 @@ Bem-vindo ao nosso livro colaborativo de receitas! Aqui reunimos pratos delicios
 - [Torta de Cookies](sobremesas/torta-de-cookies.md)
 - [Carne](carnes/carne-moida-com-batata.md)
 - [Brigadeiro](sobremesas/brigadeiro.md)
+- [Salada Caprese](saladas/salada-caprese.md)
 - [Caldo Verde](sopas/caldo-verde.md)
 - [Salada Proteica](saladas/salada-proteica.md)
 - [Carne Moída](carnes/carne-moida.md)
